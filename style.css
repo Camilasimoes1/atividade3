@@ -35,16 +35,6 @@ background: gray;
 color: white;
 font-weight: bold;
 }
-ul li.prev:hover,
-ul li.prev.active a{
-color: rgb(255, 255, 255);
-background-color: gray;
-}
-ul li.next:hover,
-ul li.next.active a{
-color: rgb(255, 255, 255);
-background-color: gray;
-}
 ul li.prev{
   margin-right: 30px;
   font-weight: bold;
